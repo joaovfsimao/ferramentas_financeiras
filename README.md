@@ -1,3 +1,17 @@
+# Financial Market Code Repository
+
+This repository contains Python scripts and Jupyter notebooks for analyzing and working with financial data. It includes tools for tasks such as web scraping, yield curve interpolation, and quantitative analysis. The goal is to provide practical solutions for financial professionals and enthusiasts interested in market data analysis, forecasting, and risk management.
+
+Feel free to explore, use, and contribute to the code. Contributions to improve or extend the functionality are always welcome!
+
+## Contributions
+
+If you'd like to contribute to this repository, please fork the project, make your changes, and submit a pull request. All contributions are appreciated!
+
+
+
+
+
 # **b3_historical_quotes_for_any_asset.ipynb**
 
 This code extracts and processes historical quotes for assets listed on B3 (Brazilian Stock Exchange) from the standardized COTAHIST_AAAA.TXT file provided by the exchange.
